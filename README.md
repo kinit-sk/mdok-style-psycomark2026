@@ -25,7 +25,7 @@ Clone and install the [IMGTB framework](https://github.com/kinit-sk/IMGTB), acti
 ## Code Usage
 1. To retrain the Qwen3-32B model, run the enclosed code mdok-style.py.
 
-2. Run predictions using the fine-tuned Qwen3-32B model on dev and test splits.
+2. Run predictions using the fine-tuned Qwen3-32B model on the dev and test splits and save them as dev_silver.jsonl and test_silver.jsonl.
 
 3. Retrain self-trained Qwen3-32B model by running the enclosed mdok-style_robust.py script.
 
